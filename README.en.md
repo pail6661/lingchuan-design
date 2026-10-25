@@ -1,4 +1,6 @@
-<sub>🌐 <a href="README.md">中文</a> · <b>English</b></sub>
+> **Fork notice:** This is Lingchuan Design 1.0, derived from Huashu Design 3.0. The English text below is preserved upstream documentation; examples, performance claims and authorship refer to the upstream project. See [the current overview](README.md) and [provenance](UPSTREAM.md) for this fork's changes and verification status.
+
+<sub>🌐 <a href="README.md">中文</a> · <b>English (upstream reference)</b></sub>
 
 <div align="center">
 
